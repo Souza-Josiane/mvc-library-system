@@ -27,6 +27,6 @@ This project is a Library Management System implemented in Java, following the M
    java Main
 
 
-## 🎓 Credits
+## 👩‍💻 Credits
 
 Developed by [**Josiane Souza**](https://www.linkedin.com/in/josianesouza/) as part of a learning assignment.
