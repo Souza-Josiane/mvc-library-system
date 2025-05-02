@@ -1,22 +1,22 @@
-# MVC in a Library Management System
+# 📚 MVC in a Library Management System
 
 This project is a Library Management System implemented in Java, following the Model-View-Controller (MVC) architectural pattern. It allows the creation, updating, and viewing of book information in a library.
 
-## Features
+## ⚙️ Features
 
-- Add books to the library database with details like title, author, and genre.
-- Update existing book information when changes are needed.
-- View a list of all books in the library.
-- Delete books from the library if necessary.
+- ➕ Add books to the library database with details like **title**, **author**, and **genre**.
+- ✏️ Update existing book information when changes are needed.
+- 📖 View a list of all books in the library.
+- 🗑️ Delete books from the library if necessary.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Java
 - Swing (for the graphical user interface)
 - MySQL (for database management, if used)
 - MVC Architecture (Model-View-Controller pattern)
 
-## How to Use
+## 🏃‍♂️ How to Use
 
 1. Clone or download the repository.
    ```bash
@@ -27,6 +27,6 @@ This project is a Library Management System implemented in Java, following the M
    java Main
 
 
-## Credits
+## 🎓 Credits
 
-Developed by Josiane Souza as part of a learning assignment.
+Developed by [**Josiane Souza**](https://www.linkedin.com/in/josianesouza/) as part of a learning assignment.
