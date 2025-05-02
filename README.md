@@ -21,9 +21,8 @@ This project is a Library Management System implemented in Java, following the M
 1. Clone or download the repository.
    ```bash
    git clone https://github.com/SeuUsuario/MVC-in-a-Library-Management-System.git
-3. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
-4. Set up the database (if applicable) by following the instructions in the DatabaseSetup.sql file (if you have one).
-5. Run the application by starting the main class.
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Run the application by starting the main class.
    ```bash
    java Main
 
